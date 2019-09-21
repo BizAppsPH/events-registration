@@ -711,3 +711,14 @@ ul.social-buttons li a {
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
 }
+
+.pb-5,
+.py-5 {
+  padding-top: 3rem !important;
+  padding-bottom: 0rem !important;
+}
+.img-fluid {
+  max-width: 80%;
+  height: auto;
+  padding-bottom: 3rem !important;
+}
