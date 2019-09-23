@@ -717,6 +717,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 .py-5 {
   padding-top: 3rem !important;
   padding-bottom: 0rem !important;
+  background-color: #060D16;
 }
 .d-block
 {
