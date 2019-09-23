@@ -8,7 +8,7 @@ BizAppsPH Event Registration for tech communities.
 | Version | v1.0.0 |
 | License | [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://opensource.org/licenses/GPL-3.0)  |
 | Build   | [![Netlify Status](https://api.netlify.com/api/v1/badges/1855f265-e264-4536-a761-8157516799e3/deploy-status)](https://app.netlify.com/sites/bizappsph-events/deploys) |
-| API Url | **[GitHub Repo](https://github.com/BizAppsPH/events-registration-service)** **[Azure Endpoint](https://opensource.org/licenses/GPL-3.0)** |
+| API Url | **[GitHub Repo](https://github.com/BizAppsPH/events-registration-service)** &#124; **[Azure Endpoint](https://opensource.org/licenses/GPL-3.0)** |
 
 
 
