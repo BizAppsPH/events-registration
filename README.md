@@ -22,7 +22,7 @@ Project is created using
 
 ## In-Progress Items
 Here are the following items that still need attention in order of priority
-- Implement the registration API using Azure Functions (in private repository for now)
+- Implement the registration API using Azure Functions
 - Implement Google reCAPTCHA to prevent bots from harrassing the API
 - Jekyll-ize the bootstrap template
 
