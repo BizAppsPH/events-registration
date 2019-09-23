@@ -1,6 +1,30 @@
 # BizAppsPH Event Registration
 BizAppsPH Event Registration for tech communities.
 
-| Build Status  | License |
+## Project Details
+
+| Details  | Status |
 | ------------- | ------------- |
-| [![Netlify Status](https://api.netlify.com/api/v1/badges/1855f265-e264-4536-a761-8157516799e3/deploy-status)](https://app.netlify.com/sites/bizappsph-events/deploys)  | [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  |
+| License | [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://opensource.org/licenses/GPL-3.0)  |
+| Build | [![Netlify Status](https://api.netlify.com/api/v1/badges/1855f265-e264-4536-a761-8157516799e3/deploy-status)](https://app.netlify.com/sites/bizappsph-events/deploys) |
+| Version | v1.0.0 |
+
+## Technology Stack
+Project is created using
+- Bootstrap v4.3.1
+- Jekyll v4.0.0
+- Azure Functions v2
+- C# .NET Core v2.2
+- Google reCAPTCHA v3
+
+## In-Progress Items
+Here are the following items that still need attention in order of priority
+- Implement the registration API using Azure Functions (in private repository for now)
+- Implement Google reCAPTCHA to prevent bots from harrassing the API
+- Jekyll-ize the bootstrap template
+
+## Copyright
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://opensource.org/licenses/GPL-3.0)
+
+- **[GPLv3 license](https://opensource.org/licenses/GPL-3.0)**
+- Copyright 2019 © <a href="https://events.bizappsph.org" target="_blank">BizAppsPH</a>.
